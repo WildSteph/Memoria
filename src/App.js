@@ -1,5 +1,5 @@
 import React from 'react';
-import Multidice from './component/ Multidices'
+import Multidice from './component/Multidices'
 import './App.css';
 
 function App() {
