@@ -1,12 +1,12 @@
 import React from 'react';
-import Dice from './component/Dice'
+import Multidice from './component/Multidices'
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-       <Dice />
+       <Multidice />
       </header>
     </div>
   );
